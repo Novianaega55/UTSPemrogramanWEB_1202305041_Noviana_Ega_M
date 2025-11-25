@@ -1,6 +1,6 @@
 <style type="text/css">
     .header {
-        background-color: blue;
+        background-color: red;
     }
 </style>
 
